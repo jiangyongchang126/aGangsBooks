@@ -1,0 +1,5 @@
+pod 'AFNetworking', '~> 2.5.4'
+pod 'MBProgressHUD', '~> 0.9.1'
+pod 'Masonry', '~> 0.6.2'
+pod 'MJRefresh', '~> 2.4.11'
+pod 'Bugtags'
